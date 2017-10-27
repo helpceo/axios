@@ -6,3 +6,5 @@
 ##采用class继承
 
 ##依赖于lodash,ES6
+
+##依赖于vuex添加token
