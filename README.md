@@ -1,4 +1,4 @@
-# axios
+# 封装axios
 ##可以以插件的形式引入vue
 
 ##二次封装axios
